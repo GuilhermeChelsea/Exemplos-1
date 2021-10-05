@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'HankRnd-Black';
+   font-display: swap;
+   src: url('HankRnd-Black/font.ttf');
+}
+@font-face {
+   font-family: 'HankRnd-Regular';
+   font-display: swap;
+   src: url('HankRnd-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'HankRnd-Light';
+   font-display: swap;
+   src: url('HankRnd-Light/font.ttf');
+}
